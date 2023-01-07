@@ -48,6 +48,27 @@ table {
 }
 /* ===== ^^^ RESET ^^^ ===== */
 
+#headSection {
+	border: solid red 2px;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.headSubSection {
+	border: solid blue 2px;
+	width: 50%;
+}
+
+.navMenu {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+
 .logo {
 	color: greenyellow;
 	font-weight: bolder;
@@ -58,7 +79,6 @@ table {
 .logoSpan {
 	color: red;
 }
-
 
 
 .imageCard {
