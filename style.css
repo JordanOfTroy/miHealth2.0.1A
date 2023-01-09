@@ -84,10 +84,6 @@ h1 {
 	padding: 0px 50px 0px;
 }
 
-.headSubSection {
-	/* width: 50%; */
-}
-
 .logo {
 	width: 55%;
 	color: var(--green);
@@ -159,9 +155,6 @@ h1 {
 	align-content: flex-start;
 }
 
-/* .textCard > * {
-	margin-bottom: 25px;
-} */
 
 .textCardButton {
 	text-decoration: none;
@@ -182,7 +175,7 @@ h1 {
 .ptext {
 	font-size: 20px;
 	line-height: 30px;
-	/* letter-spacing: 1px; */
+	padding-right: 50px;
 }
 
 .imageCard {
